@@ -1,0 +1,83 @@
+{
+  "project_info": {
+    "project_number": "296659170395",
+    "firebase_url": "https://nativereference.firebaseio.com",
+    "project_id": "nativereference",
+    "storage_bucket": "nativereference.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:296659170395:android:adbdc19913130acf22bb7e",
+        "android_client_info": {
+          "package_name": "com.nativereference.mobile"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "296659170395-kru06n4i6i6i0ukjruggg30mam18crd4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCs4z8F9y0iAZKhiGDQQ8qpbC2vC8em2WY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "296659170395-kru06n4i6i6i0ukjruggg30mam18crd4.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "296659170395-jrigg25g7cn8di6d03o85r9p5r2ite3p.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.nativereference.mobile"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:296659170395:android:1a2d72ba2f85fc8522bb7e",
+        "android_client_info": {
+          "package_name": "com.nativereference.mobile.developerapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "296659170395-kru06n4i6i6i0ukjruggg30mam18crd4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCs4z8F9y0iAZKhiGDQQ8qpbC2vC8em2WY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "296659170395-kru06n4i6i6i0ukjruggg30mam18crd4.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "296659170395-jrigg25g7cn8di6d03o85r9p5r2ite3p.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.nativereference.mobile"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
