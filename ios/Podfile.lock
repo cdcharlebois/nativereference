@@ -434,6 +434,8 @@ PODS:
     - React
   - RNReanimated (1.7.0):
     - React
+  - RNSnackbar (2.2.4):
+    - React-Core
   - RNSound (0.11.0):
     - React
     - RNSound/Core (= 0.11.0)
@@ -520,6 +522,7 @@ DEPENDENCIES:
   - RNInAppBrowser (from `../node_modules/react-native-inappbrowser-reborn`)
   - RNLocalize (from `../node_modules/react-native-localize`)
   - RNReanimated (from `../node_modules/react-native-reanimated`)
+  - RNSnackbar (from `../node_modules/react-native-snackbar`)
   - RNSound (from `../node_modules/react-native-sound`)
   - RNSVG (from `../node_modules/react-native-svg`)
   - RNVectorIcons (from `../node_modules/react-native-vector-icons`)
@@ -666,6 +669,8 @@ EXTERNAL SOURCES:
     :path: "../node_modules/react-native-localize"
   RNReanimated:
     :path: "../node_modules/react-native-reanimated"
+  RNSnackbar:
+    :path: "../node_modules/react-native-snackbar"
   RNSound:
     :path: "../node_modules/react-native-sound"
   RNSVG:
@@ -681,9 +686,9 @@ SPEC CHECKSUMS:
   Base64: cecfb41a004124895a7bcee567a89bae5a89d49b
   boost-for-react-native: 39c7adb57c4e60d6c5479dd8623128eb5b3f0f2c
   CodePush: 46ca36050986e6afb911fc4eeb0fe80515ac1c19
-  Crashlytics: 540b7e5f5da5a042647227a5e3ac51d85eed06df
+  Crashlytics: 9220f5bc89e7a618df411b4f639389dbfb0e03d2
   DoubleConversion: 5805e889d232975c086db112ece9ed034df7a0b2
-  Fabric: 706c8b8098fff96c33c0db69cbf81f9c551d0d74
+  Fabric: ea977e3cd9c20425516d3dafd3bf8c941c51223f
   FBLazyVector: aaeaf388755e4f29cd74acbc9e3b8da6d807c37f
   FBReactNativeSpec: 118d0d177724c2d67f08a59136eb29ef5943ec75
   Firebase: d55ddb0e0bb3207166cddc028647833d8a1b5b6f
@@ -757,6 +762,7 @@ SPEC CHECKSUMS:
   RNInAppBrowser: b51ad29a3cfe36a9a55866d42fc169aa7db8522e
   RNLocalize: d8025bb1ac74c0ad54155ea9862538624ebf74d8
   RNReanimated: 031fe8d9ea93c2bd689a40f05320ef9d96f74d7f
+  RNSnackbar: 3d8ca64e917b2a4510a626f10b18ce47a4273313
   RNSound: c980916b596cc15c8dcd2f6ecd3b13c4881dbe20
   RNSVG: 7e16ddfc6e00d5aa69c9eb83e699bcce5dcb85d4
   RNVectorIcons: 0bb4def82230be1333ddaeee9fcba45f0b288ed4
